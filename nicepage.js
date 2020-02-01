@@ -15,8 +15,7 @@
     "userId": 1,
     "id": 3,
     "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "‏لست شخص سيئ أنا فقط شخص 
-‏جرب جميع الشعور  فـ خُذل !"
+    "body": "‏لست شخص سيئ أنا فقط شخص"
   },
   {
     "userId": 1,
@@ -34,7 +33,7 @@
     "userId": 1,
     "id": 6,
     "title": "dolorem eum magni eos aperiam quia",
-    "body": "‏"وإني كنت دومًا حذر حتى لا أكسرك، حتى لا تبقى يديك باردة، حتى لا تسهر لوهلة مع حزن قلبك، كنتُ دومًا هنـا لأجلك. ولكن ماذا عنك؟""
+    "body": "jhhvbuv‏"
   },
   {
     "userId": 1,
