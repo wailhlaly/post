@@ -555,13 +555,13 @@
     "userId": 10,
     "id": 93,
     "title": "beatae soluta recusandae",
-    "body": "dolorem quibusdam ducimus consequuntur dicta aut quo laboriosam\nvoluptatem quis enim recusandae ut sed sunt\nnostrum est odit totam\nsit error sed sunt eveniet provident qui nulla"
+    "body": "bvuvuv"
   },
   {
     "userId": 10,
     "id": 94,
     "title": "qui qui voluptates illo iste minima",
-    "body": "aspernatur expedita soluta quo ab ut similique\nexpedita dolores amet\nsed temporibus distinctio magnam saepe deleniti\nomnis facilis nam ipsum natus sint similique omnis"
+    "body": "vuvu"
   },
   {
     "userId": 10,
